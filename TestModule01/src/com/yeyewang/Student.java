@@ -1,4 +1,6 @@
 package com.yeyewang;
 
 public class Student {
+    private int age;
+    private String name;
 }
